@@ -22,3 +22,8 @@ _I am a second year student majoring in CS._
 - [x] Create a new repo on our GitHub organisation: https://github.com/csci3250-2019 The new repo must have this name: student-1155102622 where 1155102622 should be your student ID
 - [x] Push your local repo (which only includes readme.md) into this new GitHub repo
 
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/csci3250-2019/student-1155102622/blob/master/Screenshot%202019-04-09%20at%202.21.50%20PM.png "Screenshot"
